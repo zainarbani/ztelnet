@@ -2,7 +2,7 @@
 
 Enable Telnet & Get Credentials:
 ```
-factorymode_crack.exe -l xxx open -i <routerip> -u <adminuser> -pw <adminpassword>
+factorymode_crack.exe -l xxx open -i <routerip> -u <superadminuser> -pw <superadminpassword>
 ```
 
 Access Telnet:
